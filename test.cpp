@@ -38,9 +38,16 @@ void test(){
 
  }
 
+int 
+
+
+fun_int(){
+
+}
 
 int main(){
 hello h1;
     std::cout<<"my first project"<<std::endl;
     cout<<h1<<endl;
 }
+
